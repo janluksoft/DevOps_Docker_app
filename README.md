@@ -9,4 +9,6 @@ The main element of containerization is the Dockerfile.
 .
 ![](jpg/Docker_01.png)
 .
+.
+.
 ![](jpg/Docker_02.png)
